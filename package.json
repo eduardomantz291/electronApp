@@ -1,0 +1,14 @@
+{
+  "name": "electronapp",
+  "version": "1.0.0",
+  "description": "meu primeiro app desktop com electronjs",
+  "main": "main.js",
+  "scripts": {
+    "dev": "electron ."
+  },
+  "author": "Eduardo Mantz",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^10.1.2"
+  }
+}
